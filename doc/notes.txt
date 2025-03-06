@@ -1,0 +1,9 @@
+Rapport de potentiomètre mesure de la tension de la batterie: 0.717/3.277=0.2188
+B = 4887 K et T0=298.32 K (25.17°C) avec curve_fit sur les données expérimentales
+filtrage numériqué, alpha=0.73 cf https://sitelec.org/download_page.php?filename=cours/filtres_num.pdf
+new PAC1=93DB8C2BBDAFA45C
+new PAC1=8AFD085E24408E32
+new ID=034D286B
+lat = 48.71331442733138
+lon = -2.957465744938683
+CRA rejected the modem ownership transfer: Invalid PAC code: 93DB8C2BBDAFA45C (please contact your device supplier to obtain this code)
